@@ -1,1 +1,1 @@
-This is a fun in-class practice in bioinformatics in PBIO1140: Foundations of Plant Biology I taught.
+This is a fun in-class bioinformatics practice designed for PBIO1140: Foundations of Plant Biology I taught.
